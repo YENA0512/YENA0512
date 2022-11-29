@@ -1,4 +1,4 @@
-<h2 align="center">Hi everyone ☺️, I'm Yena Lee</h2>
+<h2 align="center">Hi everyone ☺️, I'm Yena Lee!</h2>
 <h4 align="center">A growing Front End Developer who have the endless possibilities✨</h4>
 
 <h3 align="left">🎧 Intro:</h3>
@@ -12,7 +12,9 @@
 
 - 🌱 I’m currently learning FE skills in Elice SW Engineering Track.
 
-- 📮 How to reach me : <a href="mailto:lmonari71@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=lmonari71@gmail.com&logoColor=white"/></a>
+- 🍑 I like sports, music and movies.
+
+- 📮 How to reach me : <a href="mailto:lmonari71@gmail.com">lmonari71@gmail.com</a>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
