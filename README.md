@@ -1,5 +1,5 @@
 <h2 align="center">Hi everyone ☺️, I'm Yena Lee</h2>
-<h3 align="center">A growing Front End Developer who have the endless possibilities✨</h3>
+<h4 align="center">A growing Front End Developer who have the endless possibilities✨</h4>
 
 <h3 align="left">🎧 Intro:</h3>
 
@@ -12,8 +12,7 @@
 
 - 🌱 I’m currently learning FE skills in Elice SW Engineering Track.
 
-- 📮 How to reach me <br>
-  <a href="mailto:lmonari71@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+- 📮 How to reach me : <a href="mailto:lmonari71@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=lmonari71@gmail.com&logoColor=white"/></a>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
@@ -36,7 +35,7 @@
 <a href="https://instagram.com/peach0512_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peach0512_" height="30" width="40" /></a>
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YENA0512&show_icons=true&locale=en&layout=compact" alt="yena0512" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YENA0512&show_icons=true&locale=en&layout=compact" alt="yena0512" /></p> -->
 
 ![Yena's GitHub stats](https://github-readme-stats.vercel.app/api?username=YENA0512&show_icons=true&theme=omni)
 
