@@ -1,5 +1,5 @@
 <h2 align="center">Hi everyone ☺️, I'm Yena Lee!</h2>
-<h4 align="center">A growing Front End Developer who have the endless possibilities✨</h4>
+<h4 align="center">✨ A growing Front End Developer who have the endless possibilities ✨</h4>
 
 <h3 align="left">🎧 Intro:</h3>
 
@@ -12,10 +12,11 @@
 
 - 🌱 I’m currently learning FE skills in Elice SW Engineering Track.
 
-- 🍑 I like sports, music and movies.
+- 🍑 I like playing sports, listening to the music and watching Netflix!
 
 - 📮 How to reach me : <a href="mailto:lmonari71@gmail.com">lmonari71@gmail.com</a>
 
+<br>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h4>
